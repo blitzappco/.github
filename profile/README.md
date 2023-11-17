@@ -1,4 +1,4 @@
-# Blitz - Your Ultimate Public Transport Companion 🚌🚇
+# Blitz App - Blitz through the city!
 
 Welcome to Blitz, where seamless public transport experiences begin! 🌐
 
@@ -18,6 +18,6 @@ Blitz is a cutting-edge public transport app designed to make your commuting exp
 
 ## Support
 
-For any inquiries, feedback, or support issues, contact our support team at support@blitztransport.com.
+For any inquiries, feedback, or support issues, contact our support team at support@blitzapp.co
 
 We hope Blitz enhances your public transport experience. Happy commuting! 🚀
