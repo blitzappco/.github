@@ -4,7 +4,7 @@ Welcome to Blitz, where seamless public transport experiences begin! 🌐
 
 ## About Blitz
 
-Blitz is a cutting-edge public transport app designed to make your commuting experience smoother and more enjoyable. Whether you're a daily commuter or a occasional traveler, Blitz has got you covered with real-time updates, route planning, and much more.
+Blitz is a cutting-edge public transport app designed to make your commuting experience smoother and more enjoyable. Whether you're a daily commuter or an occasional traveler, Blitz has got you covered with real-time updates, route planning, and more.
 
 ## Key Features
 
@@ -20,7 +20,7 @@ Blitz is a cutting-edge public transport app designed to make your commuting exp
 
 - **MongodDB**: We store all user data, including TopupIntents with stripe on MongoDB Atlas, as it is incredibly fast and highly secure.
 - **Google Cloud**: Taking advantage of Google Cloud's suite of services, we were able to create a Virtual Machine in mere minutes and configure it effortlessly.
-- **GoDaddy**: GoDaddy and Porkbun offered us an easy to use, lightning-fast interface to purchase and configure domains. With these, we now have the domain blitzapp.co, which we leveraged for our API and Payments Gateway.
+- **GoDaddy**: GoDaddy and Porkbun offered us an easy to use, lightning-fast interface to purchase and configure domains. With these, we now have the domain blitzapp.co, which we leveraged for our API (https://api.blitzapp.co) and Payments Gateway (https://payments.blitzapp.co).
 
 
 ## Support
