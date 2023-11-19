@@ -18,9 +18,9 @@ Blitz is a cutting-edge public transport app designed to make your commuting exp
 
 ## Tech
 
--- **MongodDB**: We store all user data, including TopupIntents with stripe on MongoDB Atlas, as it is incredibly fast and highly secure.
--- **Google Cloud**: Taking advantage of Google Cloud's suite of services, we were able to create a Virtual Machine in mere minutes and configure it effortlessly.
--- **GoDaddy**: GoDaddy and Porkbun offered us an easy to use, lightning-fast interface to purchase and configure domains. With these, we now have the domain blitzapp.co, which we leveraged for our API and Payments Gateway.
+- **MongodDB**: We store all user data, including TopupIntents with stripe on MongoDB Atlas, as it is incredibly fast and highly secure.
+- **Google Cloud**: Taking advantage of Google Cloud's suite of services, we were able to create a Virtual Machine in mere minutes and configure it effortlessly.
+- **GoDaddy**: GoDaddy and Porkbun offered us an easy to use, lightning-fast interface to purchase and configure domains. With these, we now have the domain blitzapp.co, which we leveraged for our API and Payments Gateway.
 
 
 ## Support
