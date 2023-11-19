@@ -1,6 +1,7 @@
 # Blitz App - Blitz through the city!
 
 Welcome to Blitz, where seamless public transport experiences begin! 🌐
+Presentation: https://docs.google.com/presentation/d/1GMLmtSmagYAfcDzq3hculnj1yuboPrt9/edit?usp=share_link&ouid=116007874416834829244&rtpof=true&sd=true
 
 ## About Blitz
 
